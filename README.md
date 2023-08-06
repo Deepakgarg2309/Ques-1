@@ -1,6 +1,6 @@
 # Ques-1
-Elaboration of academic projects : 
-**Ans 1.a)** 
+Elaboration of my academic projects : 
+**Ans 1.a) What did the system do?** 
 **Student Performance Management**:
 This Android app is developed using Java and Firebase. Its primary purpose is to assist professors in maintaining student data for courses and tracking student details for each semester. Here are some key features that the app may include:
 Student Enrollment: Professors can register students for specific courses and semesters.
@@ -26,7 +26,7 @@ PDF Size Reduction: The app offers a feature to reduce the size of PDF files, ma
 These applications demonstrate various functionalities and technologies employed in Android app development. They address different needs and showcase the versatility of Android development with Java, Firebase, Retrofit, Flutter, and Dart.
 
 
-**Ans.1 b)**
+**Ans.1 b) What other systems have you seen in the wild like that?**
 Some other applications that are similar to these are :
 Learning Management Systems (LMS): LMS platforms are widely used in educational institutions to manage student information, course materials, assignments, and grades. They often include features for online learning, course enrollment, and communication between students and instructors.
 
@@ -41,7 +41,7 @@ Health and Fitness Apps: Many apps are designed to track and manage health and f
 Image and Document Scanning Apps: Apart from PDF Master, there are numerous apps that allow users to scan images and documents using their device's camera, converting them into digital files.
 
 
-**Ans.1 c)** 
+**Ans.1 c) How do you approach the development problem?** 
 Approaching any developement problem is all about, learning the root cause of the problem and take care of it. There are various steps to resolve the problem, some of which I have mentioned here.
 Understand the Requirements: The first step is to gather clear and detailed requirements from stakeholders or clients. This involves understanding the problem domain, the target audience, desired features, and any constraints or limitations.
 
@@ -70,7 +70,7 @@ Seek User Feedback: Developers continuously seek user feedback to understand how
 Throughout the development process, collaboration, communication, and teamwork are crucial for successfully solving the development problem and delivering a high-quality application.
 
 
-**Ans 1.d)**
+**Ans 1.d) What were interesting aspects where you copied code from Stack Overflow?**
 Stack Overflow is a valuable resource for programmers and developers, especially when we encounter challenges or errors in our code. Here's how Stack Overflow can be helped me in resolving my coding problems:
 
 Error Identification: When we encounter an error or unexpected behavior in our code, it can be challenging to identify the root cause on our own, especially if we are not familiar with the particular error message. Stack Overflow is often an excellent place to search for the specific error message I encountered. Many developers have faced similar issues in the past and have posted questions about them on Stack Overflow. By searching for the error message, I was able to find threads where others have encountered the same issue, and solutions have been provided.
@@ -84,7 +84,7 @@ Relatable Solutions: As you mentioned, Stack Overflow's voting system allows use
 Code Examples: Solutions on Stack Overflow often include code examples that demonstrate how to implement the fix. These code snippets can be directly applied to your own codebase, saving time and effort.
 
 
-**Ans 1.e)**
+**Ans 1.e) What did you learn from some very specific copy paste?**
 Despite the benefits, it's essential to remember that Stack Overflow should be used responsibly, and it's essential to understand the solutions we implement fully. Sometimes, blindly copying and pasting code without comprehension can lead to unintended consequences or introduce security vulnerabilities. I always took time to understand the solutions and consider how they fit into my codebase and overall project architecture.
 
 In summary, Stack Overflow is an invaluable resource for us developers, offering solutions to various coding challenges, explanations, code examples, and a supportive community that can help me overcome obstacles and grow as a programmer.
